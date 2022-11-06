@@ -1,0 +1,11 @@
+---
+app_user: "root"
+web_user: "apache"
+http_host: "exam.deboraholivegodswill.me"
+http_conf: "laravelapp.conf"
+http_port: "80"
+disable_default: true
+db_name: test_db
+db_user: admin
+db_pass: 1Password@123
+#item: myqsl
